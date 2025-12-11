@@ -30,11 +30,11 @@ FA2_Potato_Disease_Classification/
 │   ├── MobileNetV2_FA2.txt
 │   ├── ResNet50_FA2.txt
 │
-├── outputs/
+├── outputs/MobileNet
 │   ├── MobileNet_accuracy_loss_plot.png
 │   ├── MobileNet_confusion_matrix.png
 │   ├── MobileNet_classification_report.txt
-│
+├── outputs/ResNet
 │   ├── ResNet50_accuracy_loss_curve.png
 │   ├── ResNet50_confusion_matrix.png
 │   ├── ResNet50_classification_report.txt
